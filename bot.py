@@ -7,4 +7,4 @@ try:
 except ConnectionError:
     rpc = "backup"
     print("Using backup RPC")
-print("Changed on GitHub")
+print("Changed on GitHub1")
