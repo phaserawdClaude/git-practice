@@ -7,4 +7,3 @@ try:
 except ConnectionError:
     rpc = "backup"
     print("Using backup RPC")
-print("staging error")
