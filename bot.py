@@ -8,4 +8,3 @@ except ConnectionError:
     rpc = "backup"
     print("Using backup RPC")
 print("Changed on GitHub1")
-print("new production version")
